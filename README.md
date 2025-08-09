@@ -30,6 +30,8 @@ El bot incluye los siguientes comandos, entre otros:
 - `unmute.js` — Quita el silencio a usuarios.  
 - `userinfo.js` — Muestra información de usuarios.
 
+Entre otros comandos mas, no he puesto todos ya que esos son los mas relevantes.
+
 ---
 
 
